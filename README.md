@@ -25,7 +25,7 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 
 # Tech-Stack Used..
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="60" height="60"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>](https://github.com/AnshSinghSonkhia/Facebook-Sign-up-Page-Clone-Using-TailwindCSS/blob/master/README.md)
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="60" height="60"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>](https://github.com/AnshSinghSonkhia/Facebook-Sign-up-Page-Clone-Using-TailwindCSS/blob/master/README.md)
 
 <!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="60" height="60"/>&nbsp;-->
 
@@ -34,10 +34,8 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 
 
 ## Screenshots..
-![](https://github.com/AnshSinghSonkhia/Facebook-Sign-up-Page-Clone-Using-TailwindCSS/blob/master/Screenshots/FacebookSignup1.png)
+![]()
 
-> Footer
-![](https://github.com/AnshSinghSonkhia/Facebook-Sign-up-Page-Clone-Using-TailwindCSS/blob/master/Screenshots/FacebookSignup-Footer.png)
 
 
 
