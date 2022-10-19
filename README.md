@@ -1,2 +1,2 @@
-# Microsoft-Website-Clone
+# Microsoft Website Clone
 Completely Responsive Microsoft Website Clone - Using TailwindCSS
