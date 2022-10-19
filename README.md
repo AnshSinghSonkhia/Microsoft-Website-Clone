@@ -33,8 +33,22 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 
 
 
-## Screenshots..
-![]()
+## PC Screenshots..
+![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot1.png)
+
+![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot2.png)
+
+![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot3.png)
+
+![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot4.png)
+
+![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot5.png)
+
+## iPhone 12 Pro Screenshots..
+
+<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/MobileScreenshot1.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" width="500"/>&nbsp;&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Responsive-Navbar.png" title="Responsive-Navbar" alt="Responsive-Navbar" width="500"/>
+
+<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/MobileScreenshot3.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" width="500"/>
 
 
 
