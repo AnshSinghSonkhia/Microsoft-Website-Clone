@@ -38,3 +38,17 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 
 > Footer
 ![](https://github.com/AnshSinghSonkhia/Facebook-Sign-up-Page-Clone-Using-TailwindCSS/blob/master/Screenshots/FacebookSignup-Footer.png)
+
+
+
+![](https://i.imgur.com/waxVImv.png)
+
+
+
+
+<div align="center">
+
+<h3> Show Some <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/love.png" title="Love" alt="Love" width="20" height="20"/> by Starring Some of My Repos! </h3>
+
+</div>
+
