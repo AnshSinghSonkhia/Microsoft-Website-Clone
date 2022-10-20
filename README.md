@@ -44,12 +44,9 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 
 ![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot5.png)
 
-## iPhone 12 Pro Screenshots..
+## Samsung Galaxy S20 Ultra Screenshots..
 
-<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/MobileScreenshot1.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" width="500"/>&nbsp;&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Responsive-Navbar.png" title="Responsive-Navbar" alt="Responsive-Navbar" width="500"/>
-
-<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/MobileScreenshot3.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" width="500"/>
-
+<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" height="500"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra2.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" height="500"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra3.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" height="500"/>&nbsp;
 
 
 
