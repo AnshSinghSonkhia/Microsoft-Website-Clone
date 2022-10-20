@@ -44,11 +44,17 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 
 ![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot5.png)
 
+![](https://i.imgur.com/waxVImv.png)
+
 ## Samsung Galaxy S20 Ultra Screenshots..
 
-<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" height="500"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra2.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" height="500"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra3.png" title="iPhone 12 Pro Screenshot" alt="iPhone 12 Pro Screenshot" height="500"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra.png" title="Samsung Galaxy S20 Ultra Screenshot" alt="Samsung Galaxy S20 Ultra Screenshot" height="530"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra2.png" title="Samsung Galaxy S20 Ultra Screenshot 2" alt="Samsung Galaxy S20 Ultra Screenshot" height="530"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra3.png" title="Samsung Galaxy S20 Ultra Screenshot 3" alt="Samsung Galaxy S20 Ultra Screenshot" height="530"/>&nbsp;
 
+![](https://i.imgur.com/waxVImv.png)
 
+## iPad Pro Screenshots..
+
+<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/iPad-Pro.png" title="iPad Pro Screenshot 1" alt="iPad Pro Screenshot" height="610"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/iPad-Pro-2.png" title="iPad Pro Screenshot 2" alt="iPad Pro Screenshot" height="610"/>&nbsp;
 
 ![](https://i.imgur.com/waxVImv.png)
 
